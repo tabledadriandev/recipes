@@ -1,0 +1,12 @@
+Pairing Chart
+
+Extracted Molecule	Flavor Profile	Best Pairings	Suggested Molecular Forms
+Chlorophyll (green)	Fresh, vegetal, grassy	Lemon, basil, green apple, mint	Spheres, gels, foams, oils
+Beta-carotene (orange)	Sweet, earthy	Ginger, coconut, curry, thyme	Foams, oils, spheres, powders
+Anthocyanins (red/purple/blue)	Tart, berry-like	Coconut, vanilla, passionfruit, beetroot	pH-reactive gels, foams, pearls
+Lycopene (red)	Sweet, fruity, umami	Basil, balsamic, mozzarella, olive oil	Red oil spheres, emulsions
+Curcumin (yellow)	Earthy, bitter, spicy	Coconut, lime, black pepper, cardamom	Bright foams, spheres, powders
+Betalains (pink/red)	Sweet, earthy	Goat cheese, dark chocolate, orange zest	Syrups, gels, crystal gels
+Capsaicin (spicy)	Hot, sharp	Mango, avocado, lime, cucumber	Spicy pearls, spicy foams
+Essential oils (herbs)	Aromatic, floral, herbal	Tomato, citrus, berries, chocolate	Aromatic oils, airs, mist sprays
+Pectin (neutral)	Slightly fruity, neutral	Apple, elderflower, lemon, mint	Natural spheres, gummy candies
